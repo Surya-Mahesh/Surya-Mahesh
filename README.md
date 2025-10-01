@@ -1,7 +1,26 @@
 <h1 align="center">Hi 👋, I'm Surya</h1>
 <h3 align="center">A passionate AI Enthusiast from India</h3>
 
+<h3 align="center"> an AI & Machine Learning enthusiast passionate about building intelligent systems that shape the future.  </h3>
+
+
+<h3 align="center">I believe the next big wave of technology lies in **AI Automation** </h3>  
+
+
+<h3 align="center"> — seamlessly combining deep learning, data-driven intelligence, and system integration to create self-sustaining workflows.</h3> 
+
+
+<h3 align="center"> My focus is on exploring cutting-edge AI models, optimizing ML pipelines, and transforming real-world problems into automated, scalable solutions.</h3>
+
+
+<h3 align="center">On this GitHub, you’ll find my experiments, projects, and research-driven implementations.</h3>
+
+
+<h3 align="center">I’m constantly pushing boundaries in areas like **LLMs, MLOps, data engineering, and AI-driven automation frameworks**. Let’s innovate together 🚀</h3>
+
 <h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 </p>
 
