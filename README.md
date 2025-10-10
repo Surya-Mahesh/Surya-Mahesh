@@ -28,12 +28,19 @@
 
 <h3 align="center">🌐 I believe the future lies in **AI-powered automation** — systems that not only learn but also adapt, optimize, and evolve. I’m particularly excited about:  
 
+
+
+
   
-- **Large Language Models (LLMs)** and their role in automating knowledge work.  
+- **Large Language Models (LLMs)** and their role in automating knowledge work.
+  
 
-- **MLOps pipelines** that take models from research to real-world deployment.  
+- **MLOps pipelines** that take models from research to real-world deployment.
+  
 
-- **Cloud-native AI** with Docker, Kubernetes, and scalable APIs.  
+- **Cloud-native AI** with Docker, Kubernetes, and scalable APIs.
+  
+  
 
 - **Human-AI collaboration** that amplifies creativity and decision-making.  </h3>
 
