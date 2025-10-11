@@ -1,74 +1,138 @@
-<h1 align="center">Hi 👋, I'm Surya</h1>
-<h3 align="center"></h3>
-
-<h3 align="center">  a B.Tech grad, programmer, and AI/ML enthusiast from India on a mission to build the future with **intelligent automation**.    </h3>
+# 🚀 Welcome to My SURYA-I Universe);
 
 
+Hi, I’m **Surya Mahesh**, a passionate and driven Computer Science & IT undergraduate, Class of ’25, on a mission to harness the power of AI and automation to transform the future in **Intelligent Automation**. 
 
-<h3 align="center">💻 My journey started with strong foundations in **C++ and Python**, and over time I’ve expanded into **machine learning, deep learning, and modern web technologies like React**.
+
+
+🧑‍💻
+
+Currently, I am working on projects that leverage **AI-driven automation**, alongside several **machine learning and deep learning          implementations**.
+
+
+I’m also integrating modern **DevOps practices using Docker and Kubernetes** to make these solutions **scalable, robust, and production-ready**.
+
+🎓
+
+My academic journey began with solid foundations in **C++ and Python**,  
+
+
+WHAT MADE ME  CHOOSE  
+
+C++ 🤺
+
+I chose **C++** as my primary programming language for its unmatched combination of :
+
+
+
+- performance, fine-grained memory control, and versatility.
+
+
+
+- Its **object-oriented paradigm** allows me to build robust, scalable, and efficient projects.
+
+
+
+
+- while also giving me the power to dive deep into system-level programming and algorithmic optimization.
+
+
+
+
+- I gravitated towards **C++** because it mirrors the way I think — precise, performance-driven, and structured.
+
+
+
+
+- This choice reflects my commitment to **writing high-performance, real-world solutions** from the ground up, but also because it naturally aligns with the way my mind approaches problems.
+
+
+
+PYTHON  🐍
+
+Python captivated me with its distinctive combination of :
+
+
+
+
+- I embraced **Python** because it opened the door to the world of **Machine Learning and Deep Learning**.
+
+
+
+- Its simplicity and rich ecosystem of libraries allow me to **prototype, experiment, and implement complex AI models**
+
+
+
+- efficiently, transforming ideas into **real-world intelligent solutions** with speed and precision.
+
+
+
+:which paved the way for deep explorations into **machine learning, deep learning, and full-stack web development with React**. On this GitHub, you’ll discover projects spanning **algorithmic challenges, 
+AI-driven solutions, and interactive React applications**, all crafted to solve real-world problems and push the boundaries of technology:
+
+🤖
+
+And over time I’ve expanded into **machine learning, deep learning, and modern web technologies like React**.
+
+
+😎
+
+On this GitHub, you’ll find projects that range from core algorithmic explorations to **end-to-end AI solutions and React-based applications**. 
+
+
+ 
 
 
   
-<h3 align="center">  On this GitHub, you’ll find projects that range from core algorithmic explorations to **end-to-end AI solutions and React-based applications**.</h3>
+🌐 
+
+I Believe the future lies in **AI-powered automation** — systems that not only learn but also adapt, optimize, and evolve. I’m particularly excited about:  
+- **Large Language Models (LLMs)** and their role in automating knowledge work.  
+- **MLOps pipelines** that take models from research to real-world deployment.  
+- **Cloud-native AI** with Docker, Kubernetes, and scalable APIs.  
+- **Human-AI collaboration** that amplifies creativity and decision-making.  
 
 
+⚡
+My vision is to create AI systems that **work like digital teammates** — accelerating productivity, solving complex problems, and opening doors to innovation.  
 
-<h3 align="center">I believe the next big wave of technology lies in **AI Automation** </h3>  
-
-
-<h3 align="center"> — seamlessly combining deep learning, data-driven intelligence, and system integration to create self-sustaining workflows.</h3> 
-
-
-<h3 align="center"> My focus is on exploring cutting-edge AI models, optimizing ML pipelines, and transforming real-world problems into automated, scalable solutions.</h3>
+This GitHub is where I share my experiments, automation frameworks, and projects that push the boundary of what AI can do. Let’s shape the future, one commit at a time. 🚀  
 
 
-<h3 align="center">On this GitHub, you’ll find my experiments, projects, and research-driven implementations.</h3>
+---
 
+## 🛠️ Tech Arsenal  
 
+### Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-<h3 align="center">🌐 I believe the future lies in **AI-powered automation** — systems that not only learn but also adapt, optimize, and evolve. I’m particularly excited about:  
+### Frameworks & Libraries  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
+### Tools & Platforms  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
 
+---
 
+## 📊 GitHub Stats  
 
-  
-- **Large Language Models (LLMs)** and their role in automating knowledge work.
-  
+![Surya’s GitHub stats](https://github-readme-stats.vercel.app/api?username=suryamaheshsonti&show_icons=true&theme=tokyonight)  
 
-- **MLOps pipelines** that take models from research to real-world deployment.
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryamaheshsonti&layout=compact&theme=tokyonight)  
 
-- **Cloud-native AI** with Docker, Kubernetes, and scalable APIs.
-  
-  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryamaheshsonti&theme=tokyonight)  
 
-- **Human-AI collaboration** that amplifies creativity and decision-making.  </h3>
+---
 
+## 🌟 Let’s Connect  
+🔗 [LinkedIn](https://www.linkedin.com) • ✉️ suryamaheshsonti@gmail.com  
 
-
-
-
-
-
-<h3 align="center">I’m constantly pushing boundaries in areas like **LLMs, MLOps, data engineering, and AI-driven automation frameworks**. Let’s innovate together 🚀</h3>
-
-
-
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-
-
-
-
-
-
-
-
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
