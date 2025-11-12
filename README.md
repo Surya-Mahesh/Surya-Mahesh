@@ -1,4 +1,4 @@
-# 🚀 Welcome to My SURYA-I Universe);
+# 🚀 Welcome (:
 
 
 Hi, I’m **Surya Mahesh**, a passionate and driven Computer Science & IT undergraduate, Class of ’25, on a mission to harness the power of AI and automation to transform the future in **Intelligent Automation**. 
