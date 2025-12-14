@@ -125,5 +125,5 @@ This GitHub is where I share my experiments, automation frameworks, and projects
 ---
 
 ## 🌟 Let’s Connect  
-🔗 [LinkedIn](https://www.linkedin.com) • ✉️ suryamaheshsonti@gmail.com  • ✉️ _suryamahesh
+🔗 [LinkedIn](https://www.linkedin.com) • ✉️ suryamaheshsonti@gmail.com  
 
