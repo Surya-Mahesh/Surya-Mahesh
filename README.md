@@ -106,7 +106,7 @@ This GitHub is where I share my experiments, automation frameworks, and projects
 ### Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+ 
 
 ### Frameworks & Libraries  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
@@ -121,18 +121,9 @@ This GitHub is where I share my experiments, automation frameworks, and projects
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
 
----
-
-## 📊 GitHub Stats  
-
-![Surya’s GitHub stats](https://github-readme-stats.vercel.app/api?username=suryamaheshsonti&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryamaheshsonti&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryamaheshsonti&theme=tokyonight)  
-
+ 
 ---
 
 ## 🌟 Let’s Connect  
-🔗 [LinkedIn](https://www.linkedin.com) • ✉️ suryamaheshsonti@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com) • ✉️ suryamaheshsonti@gmail.com  • ✉️ _suryamahesh
 
